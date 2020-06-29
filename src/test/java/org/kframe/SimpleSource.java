@@ -10,7 +10,6 @@ public class SimpleSource {
 		String password = "";
 		String filters  = "";
 		String maxActive = "";
-		
-		
+
 	}
 }
