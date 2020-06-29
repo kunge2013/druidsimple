@@ -34,5 +34,25 @@
 			<version>8.5.0</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.glassfish/javax.security.auth.message -->
+		<dependency>
+		    <groupId>org.glassfish</groupId>
+		    <artifactId>javax.security.auth.message</artifactId>
+		    <version>3.1</version>
+		</dependency>
+
+		<!-- jsp jar 依赖 -->
+		<dependency>
+			<groupId>javax.servlet.jsp</groupId>
+			<artifactId>javax.servlet.jsp-api</artifactId>
+			<version>2.3.1</version>
+		</dependency>
+	
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
+		</dependency>
+
 	</dependencies>
 </project>
